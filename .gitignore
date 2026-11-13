@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Allow the .gitignore file itself
+!.gitignore
+
+# Allow specific files
+!README.md
+!djvu2kndle.py
